@@ -1,0 +1,6 @@
+.env
+ekctl_env1/
+__pycache__/
+*.pyc
+*.log
+프로그램 파일.zip
